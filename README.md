@@ -1,3 +1,5 @@
+ [comment]: # (This read me created from the attached articles https://www.sitepoint.com/github-profile-readme/ )
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW53aXowM2ZmeHZvcGFob2ZqeDRvZG1rcWFhejJ1b3hlZHhoemR5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -49,4 +51,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+ [comment]: # (we can modify the streaks css over using this application - https://github-readme-streak-stats.herokuapp.com/demo/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swaroop729&theme=highcontrast&hide_border=true&border_radius=5.1&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
