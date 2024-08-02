@@ -1,7 +1,17 @@
  [comment]: # (This read me created from the attached articles https://www.sitepoint.com/github-profile-readme/ )
 
+
+ 
 <div id="header" align="center">
+
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW53aXowM2ZmeHZvcGFob2ZqeDRvZG1rcWFhejJ1b3hlZHhoemR5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   
+ # Hey there !!!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> #
+
+
+--- 
+
+ Welcome to my GitHub profile, where I'm constantly learning, exploring, and building cool stuff! As a Software Engineer, I'm always striving to create something amazing. And speaking of adventures, I'm always up for trying new things, whether it's trying new cuisine, exploring a new city, or learning new technology. Who says coding can't be an adventure too, right? 🚀
 </div>
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/Swaroop-Manda-b40099128">
@@ -10,16 +20,17 @@
 </div>
 <div id="profilecounter"  align="center">
 <img src="https://komarev.com/ghpvc/?username=Swaroop729&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there !!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  
+</div>
+
+<div align="center"> 
+ 
 ---
+
 ### :man_technologist: About Me :
+
+</div>
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Senior Software Engineer and contributing to frontend and backend for building web applications.
@@ -30,9 +41,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Swaroop-Manda-b40099128)
 
----
-
-### :hammer_and_wrench: Languages and Tools :
+<div align="center"> 
+ 
+ ---
+ 
+ ### :hammer_and_wrench: Technologies I know : 
+ 
+ </div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
@@ -57,13 +72,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 </div>
 
+<div align="center"> 
+ 
 ---
 
 ### :fire: My Stats :
+
+
 
  [comment]: # (we can modify the streaks css over using this application - https://github-readme-streak-stats.herokuapp.com/demo/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swaroop729&theme=highcontrast&hide_border=true&border_radius=5.1&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 </div>
